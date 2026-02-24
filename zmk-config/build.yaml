@@ -1,0 +1,7 @@
+include:
+  - board: nrfmicro_13
+    shield: helix_left
+    artifact-name: helix-left
+  - board: nrfmicro_13
+    shield: helix_right
+    artifact-name: helix-right
